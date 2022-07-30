@@ -25,17 +25,17 @@
 </p>
 
 </details> 
-### Hi there, I'm Satria Aluh Perwira Nusa ðŸ‘‹
+### Hi there, I'm Amirr ðŸ‘‹
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center"><img src="https://www.codewars.com/users/USER0106/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=USER0106&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USER0106&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER0106&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
-**SatriaAPN/SatriaAPN** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**USER0106/USER0106** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
