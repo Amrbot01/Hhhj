@@ -1,50 +1,71 @@
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irham01/HOHO/main/kanna/825755.jpg" />
+  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
 </p>
 
 <p align="center">
 
-- 👼 My name is Amirr 
-- 🗣️ I am 19 years old 
-- 🔭 I am not programmer
-
+- ♂️ My name is Amirr
+- ⛩️ I am anime lovers !
+- 🤠 I am 16 years old ◉‿◉
 </p>
 
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/kael_bot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285601517617"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/irkham_1"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://www.youtube.com/channel/UCqfsqGdleLAxtJ71COubRRQ/featured"><img src="https://img.shields.io/badge/YouTube-Kanna Chan-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
-  <a name=Kanna-Chan&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://instagram.com/AmirrWibuu_01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/message/KX5ZGPPH2FMEC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/fatiharridho.id"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/icebear_id"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/badge/YouTube-fatih arridho-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ" /><br>
+  <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/USER0106"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/UCqfsqGdleLAxtJ71COubRRQ/featured"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=Kanna-Chan&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Kanna-Chan&color=blue&style=flat-square&label=Profile+View"></a>
+  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-</details> 
-### Hi there, I'm Amirr ðŸ‘‹
-
-### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/USER0106/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=USER0106&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USER0106&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER0106&layout=compact&theme=monokai&langs_count=12"/><br />
+### My Waifu 😼
+<p align="center">
+  <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
 </p>
 
-<!--
-**USER0106/USER0106** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+### Spotify Playing 🎧
 
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/USER0106"><img src="https://github-readme-stats.vercel.app/api?username=USER0106&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/USER0106"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER0106&theme=radical&layout=compact"></a></p> 
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=fatiharridho.github.io&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/fatiharridho)
+
+</details>
