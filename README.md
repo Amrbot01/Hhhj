@@ -45,7 +45,6 @@
 <p align="center"><a href="https://github.com/USER0106"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER0106&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=fatiharridho.github.io&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)
 
 
