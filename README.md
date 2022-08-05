@@ -8,12 +8,11 @@
 - ♂️ My name is Amirr
 - ⛩️ I am anime lovers !
 - 🤠 I am 16 years old ◉‿◉
+Kanna
 </p>
 
 <p align="center">
-
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
-
+    <img src="https://telegra.ph/file/4bcad8eb70af16e75aaba.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 
