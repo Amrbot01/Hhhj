@@ -8,7 +8,7 @@
 - ♂️ My name is Amirr
 - ⛩️ I am anime lovers !
 - 🤠 I am 16 years old ◉‿◉
-Kanna
+
 </p>
 
 <p align="center">
