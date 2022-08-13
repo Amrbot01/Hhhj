@@ -3,74 +3,47 @@
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
 </p>
 
-<p align="center">
 
-- ♂️ My name is Amirr
-- ⛩️ I am anime lovers !
-- 🤠 I am 16 years old ◉‿◉
+## Hi there, my name is Amirr<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+ ![](https://visitor-badge.glitch.me/badge?page_id=USER0106)<p>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://camo.githubusercontent.com/19de67baa6e5a6594c50a400d466144108a616b0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" />
 
-</p>
-
-<p align="center">
-    <img src="https://telegra.ph/file/4bcad8eb70af16e75aaba.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+### 👤 About Me
+* 🤷‍♂️ 16 y.o
+* 🏠 Live at Samarinda, Kalimantan Timur
 
 
-
-------
-### Connect with me ☎️
-<p align="center">
-  <a href="https://instagram.com/AmirrWibuu_01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6282154156241"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100066612825518"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/icebear_id"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/USER0106"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-
-### My Waifu 😼
-<p align="center">
-  <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
-</p>
-
-------
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31ngtnf3xrpehxxx7uaxhdgs7zr4?si=D2SDLtjJQeaLC_X_-PlZjg&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
-------
-
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/USER0106"><img src="https://github-readme-stats.vercel.app/api?username=USER0106&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/USER0106"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER0106&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)
-
-
-<p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
-</p>
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+ <summary><b>🐱 My GitHub Data</b></summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=USER0106)
-
+> 📦 3.8 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+ </details>
+ 
+<details>
+  <summary><b>My Github Stats</b></summary>
+  <img alt="USER0106 github stats" src="https://github-readme-stats.vercel.app/api?username=USER0106&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER0106&layout=compact&hide_border=true"/>
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+ <summary><b>📊 This Week I Spent My Time On</b></summary>
 
-![Metrics](https://metrics.lecoq.io/USER0106)
-
+```text
+⌚︎ Time Zone: Asia/Jakarta
+```
 </details>
