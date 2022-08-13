@@ -44,6 +44,6 @@
  <summary><b>📊 This Week I Spent My Time On</b></summary>
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+⌚︎ Time Zone: Asia/Samarinda
 ```
 </details>
